@@ -8,4 +8,7 @@ class Show < ActiveRecord::Base
     Show.maximum("rating").name
   end
 
+
+  
+
 end
